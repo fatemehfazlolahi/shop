@@ -1,1 +1,2 @@
-<?php
+@extends('client.layout.master')
+
